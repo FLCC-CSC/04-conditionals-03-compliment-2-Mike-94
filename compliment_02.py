@@ -1,8 +1,8 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Michael Reed
+# DATE: 2/22/2026
+# BRIEF DESCRIPTION: Building off of compliment_01.py  
 
 
 
@@ -15,14 +15,11 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-
-
-
-
-
-
-
-
+compliment = input("Would you like a compliment? ")
+if compliment == "yes":
+    print("You have wonderful eyes.\nThank you for playing.")
+else:
+    print("No compliment for you!\nThank you for playing.")
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
@@ -70,7 +67,7 @@ Thank you for playing.
 '''
 
 1. Did you struggle with this lab (YES/NO)?
-
+No
 
 
 
